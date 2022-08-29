@@ -1,0 +1,16 @@
+body {
+    background-color: var(--van-background-color);
+}
+
+.header {
+    background-color: white;
+    padding: 1rem 0;
+}
+
+.title {
+    margin: 0 auto 1rem;
+    font-size: 150%;
+    font-weight: normal;
+    text-align: center;
+    color: var(--van-text-color);
+}
