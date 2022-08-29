@@ -19,6 +19,10 @@ onMounted(() => {
 </script>
 
 <template>
+  <Head>
+    <Title>扫点场所码</Title>
+  </Head>
+
   <div class="header">
     <h1 class="title">扫点场所码</h1>
     <van-tabs
