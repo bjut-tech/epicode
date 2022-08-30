@@ -7,10 +7,25 @@ body {
     padding: 1rem 0;
 }
 
+.footer {
+    padding: 1rem;
+    font-size: 80%;
+    color: lightgray;
+}
+
 .title {
     margin: 0 auto 1rem;
     font-size: 150%;
     font-weight: normal;
     text-align: center;
     color: var(--van-text-color);
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.link-no-color {
+    color: inherit;
+    font-weight: bold;
 }

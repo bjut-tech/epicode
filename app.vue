@@ -51,4 +51,16 @@ onMounted(() => {
       </van-tab>
     </van-tabs>
   </div>
+
+  <div class="footer">
+    <p class="text-center">
+      &copy; JingBh 2022
+    </p>
+    <p>
+      注意：此网页非北京工业大学官方提供，仅收集相关信息，为同学们提供便利。
+    </p>
+    <p>
+      平乐园校区相关数据待补充，欢迎<a class="link-no-color" href="https://github.com/bjut-tech/epicode" target="_blank">提交 Pull Request</a>。
+    </p>
+  </div>
 </template>
