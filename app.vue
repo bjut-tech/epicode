@@ -42,7 +42,7 @@ onMounted(() => {
         >
           <van-cell
             v-for="code of type.codes"
-            :key="code.id"
+            :key="code.name"
             :title="code.name"
             is-link
             :url="buildUrl(code.id)"

@@ -1,11 +1,8 @@
-import campusMain from './main.json'
+// import campusMain from './main.json'
+// TODO: add data
 import campusTongzhou from './tongzhou.json'
 
 const data: ICampus[] = [
-  {
-    name: '本部',
-    types: campusMain
-  },
   {
     name: '通州校区',
     types: campusTongzhou
