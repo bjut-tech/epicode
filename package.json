@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.8",
-    "vant": "^3.6.1"
+    "vant": "^3.6.1",
+    "vite-plugin-pwa": "^0.12.4"
   }
 }
